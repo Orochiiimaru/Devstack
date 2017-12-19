@@ -54,3 +54,4 @@ Ik heb een nieuwe vriendin leren kennen, het was super leuk xoxox
 
 ![Add Image](kaatjebabe.PNG)
 ![Add Image](hahah.jpg)
+![Add Image](thomasdetrein.PNG)
