@@ -43,3 +43,5 @@ After all this is done we can create an instance and add the security group and 
 ```
 openstack server create --flavor m1.small --image cirros-0.3.5-x86_64-disk --nic net-id=a598735c-baf8-4268-99d6-03fcd7ea41be --security-group 3cf27cd0-3c9d-43d9-a2bf-c20bd42f438d --key-name mykey provider-instance-Cirros
 ```
+![Add Image](Thomas_Romeos.jpg)
+
