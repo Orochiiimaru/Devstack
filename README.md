@@ -45,3 +45,8 @@ openstack server create --flavor m1.small --image cirros-0.3.5-x86_64-disk --nic
 ```
 ![Add Image](Thomas_Romeos.jpg)
 
+
+En hier is dan ons nieuw bang bang saapjen
+
+![Add Image](Naamloos.png)
+
