@@ -3,23 +3,23 @@
 ## Using the webinterface
 Once everything is installed you should be able to go to the web interface via the IP and see the login screen as shown below.
 
-![Login Screen](Images/GUI_Login_Screen.png)
+![Login Screen](GUI_Login_Screen.png)
 
 Once logged in make sure u are in the admin project, This can be selected at the top left next to the OpenStack logo as shown in the image below.
 
-![Select Admin](Images/GUI_Select_Admin.png)
+![Select Admin](GUI_Select_Admin.png)
 
 Now we are going to add our images to the images section.<br>
 At the left panel select Admin -> Compute -> images.<br>
 On the Images page click the Create Image button on the right side of the page. Fill in the Image Name, Image Description and Browse for the image file on your Device. After this is done press Create Image at the bottom right of the window.
 
-![Add Image](Images/GUI_Add_Image.png)
+![Add Image](GUI_Add_Image.png)
 
 After the image is done you can start your image by pressing launch at the right of the window.<br>
 In this example we will fill in the minimal needed to launch an image.<br>
 At the details window fill in a Instance Name, and in the Flavor section pick m1.small by clicking the arrow at the right.
 
-![Launch Instance](Images/GUI_Launch_Instance.png)
+![Launch Instance](GUI_Launch_Instance.png)
 
 Your instance should now be launching.
 
