@@ -50,3 +50,6 @@ En hier is dan ons nieuw bang bang saapjen
 
 ![Add Image](Naamloos.png)
 
+Ik heb een nieuwe vriendin leren kennen, het was super leuk xoxox
+
+![Add Image](kaatjebabe.PNG)
